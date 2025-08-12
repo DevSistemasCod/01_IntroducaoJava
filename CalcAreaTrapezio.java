@@ -2,7 +2,7 @@ package entradaSaidaDeDados;
 
 import java.util.Scanner;
 
-public class calcAreaTrapezio {
+public class CalcAreaTrapezio {
     public static void main(String[] args) {
 	float area, baseMaior, baseMenor, altura;
 		
