@@ -2,7 +2,7 @@ package entradaSaidaDeDados;
 
 import java.util.Scanner;
 
-public class calcAreaCirculo {
+public class CalcAreaCirculo {
 	public static void main(String[] args) {
 	     double raio, area;
 	     Scanner lerRaio = new Scanner(System.in);
