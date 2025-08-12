@@ -2,7 +2,7 @@ package entradaSaidaDeDados;
 
 import java.util.Scanner;
 
-public class verficaAntecessorSucessorDeUmNro {
+public class VerficaAntecessorSucessorDeUmNro {
 	public static void main(String[] args) {
 	  int antecessor, sucessor, numero;
 	  	
