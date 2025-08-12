@@ -2,7 +2,7 @@ package entradaSaidaDeDados;
 
 import java.util.Scanner;
 
-public class calcAreaTriangulo {
+public class CalcAreaTriangulo {
 	public static void main(String[] args) {
 	  float area, base, altura;
 	  	
